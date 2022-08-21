@@ -31,3 +31,16 @@ From our DataFrames and their corresponding graphs, we can conclude:
 
 ## Summary 
 
+Based on our visualizations of the data for June and December above, it seems the average temperature for June is 75 and December is 71. Therefore, the temperatures for summer and winter stays in the 70s. 
+
+In order to better backup our overall analysis, additional queries were created for months February and October. The reason I chose these months were becuase seasonality wise, they differ from winter and summer as we've moved onto early Spring-ish to fall. The results of our analysis is down below:
+
+**Figure 3: February Temperatures**
+
+![Screen Shot 2022-08-20 at 8 45 59 PM](https://user-images.githubusercontent.com/106577074/185774603-f95b2b59-403a-49ed-96a2-2f29ee96df4f.png)
+
+**Figure 4: October Temperatures**
+
+![Screen Shot 2022-08-20 at 8 48 32 PM](https://user-images.githubusercontent.com/106577074/185774614-a60c8eb0-0389-4ede-9a43-06fc5faa44c8.png)
+
+We can see here that average temperature in these two months stays within the 70-75 degrees. Therefore, we can confidently let our investor know that opening a Surf n' Shake shop in Oahu, Hawaii will deliver beautiful weather year round without much precipitation. 
